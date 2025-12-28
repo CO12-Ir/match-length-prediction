@@ -1,0 +1,13 @@
+# Data files
+*.csv
+*.xlsx
+
+# Model artifacts
+*.pkl
+*.joblib
+*.db
+
+# OS / editor
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
