@@ -2,6 +2,7 @@
 
 This repository contains a complete machine learning pipeline developed
 for a competition setting with truncated test data.
+Competition name: MUDAC2025
 
 ## Project Overview
 
@@ -37,3 +38,15 @@ Due to competition rules, raw datasets are not included.
 
 Raw training and test data are excluded in compliance with competition rules.
 All file paths are left as placeholders for reference.
+
+## Results Overview
+
+### Feature Importance Analysis
+![Top 30 Feature Importances](images/feature_importance.png)
+
+### Train–Test Distribution Alignment
+![Original Contact Count Distribution](images/original_distribution.png)
+![Adjusted Contact Count Distribution](images/truncated_distribution.png)
+
+### Hyperparameter Optimization & final RMSE
+![Optuna Optimization History](images/optuna_history.png)
