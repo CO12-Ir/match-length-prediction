@@ -42,11 +42,11 @@ All file paths are left as placeholders for reference.
 ## Results Overview
 
 ### Feature Importance Analysis
-![Top 30 Feature Importances](images/feature_importance.png)
+![Top 30 Feature Importances](image/feature_importance.png)
 
 ### Train–Test Distribution Alignment
-![Original Contact Count Distribution](images/original_distribution.png)
-![Adjusted Contact Count Distribution](images/truncated_distribution.png)
+![Original Contact Count Distribution](image/original_distribution.png)
+![Adjusted Contact Count Distribution](image/truncated_distribution.png)
 
 ### Hyperparameter Optimization & final RMSE
-![Optuna Optimization History](images/optuna_history.png)
+![Optuna Optimization History](image/optuna_history.png)
